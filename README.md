@@ -1,11 +1,8 @@
-# README
+# todos-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A small project using Rails 5 core (API) to learn new advances in Rails. Possible enhancements might include GraphQL and a front-end.
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version: 2.3.3
 
 * System dependencies
 
@@ -20,5 +17,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
